@@ -1,0 +1,25 @@
+{
+  "name": "module-executor-plugin",
+  "version": "0.0.1",
+  "description": "Webpack 4 plugin for init modules",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nickshevr/ModuleExecutorPlugin.git"
+  },
+  "keywords": [
+    "webpack4",
+    "plugin",
+    "execute",
+    "module"
+  ],
+  "author": "nickshevr@yandex-team.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickshevr/ModuleExecutorPlugin/issues"
+  },
+  "homepage": "https://github.com/nickshevr/ModuleExecutorPlugin#readme"
+}
